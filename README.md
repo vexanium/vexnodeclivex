@@ -12,4 +12,4 @@ $ unzip vexnodeclivex1.7.4bin_ubuntu16.zip</pre>
 $ unzip vexnodeclivex1.7.4bin_ubuntu18.zip</pre>
 
 <H2>Help Command</h2>
-<pre>$./clivex help</pre>
+<pre>$ ./clivex help</pre>
