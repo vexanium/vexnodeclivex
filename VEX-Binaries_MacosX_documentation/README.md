@@ -13,11 +13,11 @@
 #### 4. Download VEX-Binaries
 `https://github.com/vexanium/vexnodeclivex/releases/download/v1.7.4-1/vexnodeclivex1.7.4bin_macos.zip`
 
-#### 5. allow and get start
+## allow and get start
 > open terminal
 > navigate to binaries folder
 
-#### run this command:
+#### 1. run this command:
 `./clivex`
 
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2017.56.53.png?raw=true)
@@ -29,7 +29,7 @@
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2016.58.04.png?raw=true)
 
 
-#### Go to System Preferences
+#### 2. Go to System Preferences
 
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2016.58.17.png?raw=true)
 
