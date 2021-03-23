@@ -57,7 +57,7 @@
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2017.45.32.png?raw=true)
 
 #### 7. allow keosd and run it
-<pre>run command `./keosd &`</pre>
+<pre>run command</pre> `./keosd &`
 
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2017.57.08.png?raw=true)
 
