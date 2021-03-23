@@ -22,9 +22,9 @@
 
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2017.56.53.png?raw=true)
 
-> this warning will appear
+<pre>this warning will appear</pre>
 
-> select cancel
+<pre>select cancel</pre>
 
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2016.58.04.png?raw=true)
 
@@ -33,10 +33,10 @@
 
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2016.58.17.png?raw=true)
 
-> select security & Privacy
+<pre>select security & Privacy</pre>
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2017.32.16.png?raw=true)
 
-> Allow Anyway
+<pre>Allow Anyway</pre>
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2016.58.22.png?raw=true)
 
 
