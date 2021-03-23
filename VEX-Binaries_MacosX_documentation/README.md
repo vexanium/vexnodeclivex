@@ -22,11 +22,12 @@
 
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2017.56.53.png?raw=true)
 
-<pre>this warning will appear</pre>
 
-<pre>select cancel</pre>
 
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2016.58.04.png?raw=true)
+`this warning will appear`
+
+`select cancel`
 
 
 #### 2. Go to System Preferences
