@@ -5,6 +5,7 @@
 
 #### 2. Downgrade openssl to 1.0.2t
 `brew install rbenv/tap/openssl@1.0`
+
 `ln -sfn /usr/local/Cellar/openssl@1.0/1.0.2t /usr/local/opt/openssl`
 
 #### 3. Install libusb
