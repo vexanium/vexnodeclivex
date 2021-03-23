@@ -54,10 +54,10 @@
 
 > if it succeed. will look like the image above
 
-> then allow keosd and run it
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2017.45.32.png?raw=true)
 
-#### 7. run command `./keosd &`
+#### 7. allow keosd and run it
+<pre>run command `./keosd &`</pre>
 
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2017.57.08.png?raw=true)
 
