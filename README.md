@@ -13,3 +13,6 @@ $ unzip vexnodeclivex1.7.4bin_ubuntu18.zip</pre>
 
 <H2>Help Command</h2>
 <pre>$ ./clivex help</pre>
+
+## VEX-Binaries macosX documentation here
+https://github.com/vexanium/vexnodeclivex/tree/master/VEX-Binaries_MacosX_documentation
