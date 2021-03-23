@@ -18,7 +18,10 @@
 > open terminal
 > navigate to binaries folder
 
-#### 1. run this command:
+#### 1. try clivex
+
+shell:
+
 `./clivex`
 
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2017.56.53.png?raw=true)
@@ -57,7 +60,8 @@
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2017.45.32.png?raw=true)
 
 #### 7. allow keosd and run it
-run command
+
+shell:
 
 `./keosd &`
 
