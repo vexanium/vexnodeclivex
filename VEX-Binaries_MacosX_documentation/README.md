@@ -33,13 +33,13 @@
 
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2016.58.17.png?raw=true)
 
+> select security & Privacy
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2017.32.16.png?raw=true)
 
-> select security & Privacy
-
+> Allow Anyway
 ![](https://github.com/vexanium/vexnodeclivex/blob/master/VEX-Binaries_MacosX_documentation/Image/Screen%20Shot%202021-03-23%20at%2016.58.22.png?raw=true)
 
-> Allow Anyway
+
 
 #### try again `./clivex`
 
