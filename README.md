@@ -1,5 +1,5 @@
 # vexnodeclivex
-Vexanium node with CLIVEX
+Vexanium binaries
 
 <H2>macos</h2>
 <pre>$ wget https://github.com/vexanium/vexnodeclivex/releases/download/v1.7.4-1/vexnodeclivex1.7.4bin_macos.zip
