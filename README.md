@@ -23,3 +23,6 @@ $ sudo apt install ./vex_1.7-4-ubuntu-18.04_amd64.deb</pre>
 ## VEX-Binaries macosX documentation here
 https://github.com/vexanium/vexnodeclivex/tree/master/VEX-Binaries_MacosX_documentation
 
+## Using cleos here
+https://github.com/vexanium/vexnodeclivex/tree/cleos
+
