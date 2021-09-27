@@ -1,4 +1,4 @@
-# vexnodeclivex
+# vexbin
 Vexanium binaries
 
 <H2>ubuntu 18.04 install</h2>
